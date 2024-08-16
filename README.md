@@ -33,7 +33,7 @@ Digitately Drive (https://docs.google.com/spreadsheets/d/15Kp-2yfQFNRGJPNOkpMwG-
 Model View
 :---------------:
 ![](Model_ View.png)
-This model has just one fact table with 10 columns
+This model has just one fact table with 25 columns
 
 ### Visualisation 
 The report comprises of 2 pages in the report view
