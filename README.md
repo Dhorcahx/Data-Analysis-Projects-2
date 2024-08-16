@@ -32,7 +32,7 @@ Digitately Drive (https://docs.google.com/spreadsheets/d/15Kp-2yfQFNRGJPNOkpMwG-
 
 Model View
 :---------------:
-![](Model_ View.png)
+![](model.png)
 This model has just one fact table with 25 columns
 
 ### Visualisation 
