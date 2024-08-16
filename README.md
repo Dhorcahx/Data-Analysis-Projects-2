@@ -36,8 +36,7 @@ Model View
 This model has just one fact table with 25 columns
 
 ### Visualisation 
-The report comprises of 2 pages in the report view
-1. Visualisation
+ Visualisation
    (https://drive.google.com/file/d/1vm5vAHW3kHejDzgPw2nPnjw5rD3_kriD/view?usp=drive_link)
 
 ![](Visualisation.png)
