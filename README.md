@@ -54,8 +54,8 @@ Slicers
 Slicers - 
 These are the main controllers of the visual. The narrow vast information to aid in getting more accurate answers for the problem statements
 
-Tables - 
-These visuals display large amount of data for which can be easily filtered for accurate results 
+Pie charts -
+A type of graph in which a circle is divided into sectors that each represent a proportion of the whole. These are normally used for easy distinctions
 
 Cards - 
 Display accurate numbers for the results against chosen slicers
